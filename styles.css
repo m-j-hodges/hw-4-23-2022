@@ -1,0 +1,61 @@
+body {
+
+  background-color: #E7E7E7;
+}
+
+p {
+  color: #696969;
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  letter-spacing: .05em;
+}
+h1 {
+  display: inline;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  letter-spacing: .1em;
+
+}
+img {
+  border: 8px solid #68A3DB;
+  border-radius: 4px;
+  float: left;
+}
+#bio {
+  float:left;
+}
+#biography {
+  background-color: #BDDAD7;
+  margin: 10px;
+  float:left;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+
+#contact {
+  
+  
+  padding-top:20px;
+  text-align: center;
+
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+
+}
+
+li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  
+}
+
+
+
+
