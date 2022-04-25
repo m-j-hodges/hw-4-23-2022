@@ -18,12 +18,35 @@ h1 {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
   letter-spacing: .1em;
+}
+#image.p {
+  text-align:center;
+  padding-top:0;
 
 }
+
+#image {
+  text-align:justify;
+  width: 300px;
+}
+
+#image img {
+  display:block;
+  margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+
+}
+
+
 img {
   border: 8px solid #68A3DB;
   border-radius: 4px;
-  float: left;
+  object-fit:cover;
+  width:300px;
+  height:400px;
 }
 #bio {
   float:left;
