@@ -22,8 +22,28 @@ h1 {
 #image.p {
   text-align:center;
   padding-top:0;
+}
+nav {
+  background-color: #dfd9d9;
+  padding: 0px 0px 20px 0px ;
+  border-radius: 5px;
 
 }
+
+
+.list:hover {
+  background-color:#bcbcbc;
+  border-radius: 6px;
+  padding: 4px;
+}
+
+nav li {
+  display: inline;
+  font-family: 'Monserrat', sans-serif;
+  
+
+}
+
 
 #image {
   text-align:justify;
@@ -74,8 +94,8 @@ h3 {
 }
 
 li {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
   
 }
 
